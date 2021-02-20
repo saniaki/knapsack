@@ -7,3 +7,6 @@ The input files a knapsack instance with the following format:
 [knapsack_size][number_of_items]
 [value_1] [weight_1]
 [value_2] [weight_2]
+  
+Knapsack problem from Wikipedia:  
+https://en.wikipedia.org/wiki/Knapsack_problem 
